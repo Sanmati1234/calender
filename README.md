@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Interactive Calendar Component
 
 A beautiful, interactive calendar component built with Next.js, TypeScript, and Tailwind CSS. Features a wall calendar aesthetic with date range selection and integrated notes functionality.
@@ -154,3 +155,7 @@ For a detailed walkthrough of all features, check out the [video demonstration](
 ---
 
 Built with ❤️ using Next.js and Tailwind CSS
+=======
+# calender
+Feature-Rich: Integrated a dynamic frontend calendar using Node.js to manage and display real-time events.  Modern Stack: Built with a responsive UI and a robust Node.js backend for seamless scheduling and data persistence.  Automated Updates: Utilized GitHub Actions to keep calendar metrics and project milestones synchronized daily.  
+>>>>>>> 1e76ea9524267ada0cf9db7f82ab2b2320fe1243
